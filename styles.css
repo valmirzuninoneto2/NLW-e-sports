@@ -81,7 +81,8 @@ section ul{
    margin-top: 24px;
 }
 
-
+li{
+}
 
 section li{
   transition: transform .3s;
